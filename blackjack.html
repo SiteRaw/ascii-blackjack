@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ASCII Blackjack</title>
+    <style>
+        body {
+            font-family: monospace;
+        }
+        .card {
+            white-space: pre;
+            margin: 10px;
+            display: inline-block;
+            text-align: center;
+        }
+        .hand {
+            margin-bottom: 20px;
+        }
+        button {
+            margin: 10px;
+            padding: 5px 15px;
+            cursor: pointer;
+        }
+    </style>
+    <script type="text/javascript" src="blackjack.js"></script>
+</head>
+<body>
+    <h1>ASCII Blackjack</h1>
+    <div id="dealer-hand" class="hand">
+        <h2>Dealer's Hand:</h2>
+    </div>
+    <div id="player-hand" class="hand">
+        <h2>Player's Hand:</h2>
+    </div>
+    <button id="hit-button">HIT</button>
+    <button id="hold-button">HOLD</button> <button id="restart-button" disabled>Start Over</button>
+    <div id="ptotal"></div>
+    <div id="dtotal"></div>
+</body>
+</html>
