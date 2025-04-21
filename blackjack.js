@@ -1,3 +1,7 @@
+/* ASCII BlackJack
+by Jace, from SiteRaw
+visit us https://www.siteraw.com */
+
 const suits = ['♥', '♦', '♣', '♠'];
 const ranks = ['2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K', 'A'];
 
