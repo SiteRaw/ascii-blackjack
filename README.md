@@ -1,14 +1,16 @@
-# ascii-blackjack
-A web based ACII blackjack game by Jace from https://www.siteraw.com
+# ASCII Javascript Blackjack
+A web based ACII blackjack game from SiteRaw Projects https://www.siteraw.com
 
-Languages:
+### Languages:
 
 - Javascript
 - HTML
 - CSS
+- you can find the C equivalent [https://github.com/SiteRaw/BlackJack-in-C/](here)
 
 ## Possible additions?
 
 - Virtual money
-- Automatic card counter (+1.5 BlackJack payout)
+- Automatic card counter
+- 3:2 BlackJack payout
 - Split/Double choice
