@@ -6,7 +6,7 @@ A web based ACII blackjack game from SiteRaw Projects https://www.siteraw.com
 - Javascript
 - HTML
 - CSS
-- you can find the C equivalent [https://github.com/SiteRaw/BlackJack-in-C/](here)
+- you can find the C equivalent [here](https://github.com/SiteRaw/BlackJack-in-C/)
 
 ## Possible additions?
 
