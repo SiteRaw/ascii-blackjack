@@ -209,6 +209,7 @@ function restartGame() {
     // Enable HIT and HOLD buttons
     document.getElementById('hit-button').disabled = false;
     document.getElementById('hold-button').disabled = false;
+    document.getElementById('restart-button').disabled = true;
     document.getElementById('dtotal').innerHTML = '';
 }
 
